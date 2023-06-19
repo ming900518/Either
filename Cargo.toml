@@ -7,5 +7,6 @@ authors = ["Ming Chang <mail@mingchang.tw>"]
 categories = ["Data Structure"]
 keywords = ["either"]
 repository = "https://github.com/ming900518/one_or_both"
+license = "MIT"
 
 [dependencies]
