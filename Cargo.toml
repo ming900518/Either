@@ -1,0 +1,11 @@
+[package]
+name = "one-or-both"
+version = "0.1.0"
+edition = "2021"
+description = "A struct for getting data from inner field safely with state controlled method, preventing user accidentally calling the wrong method."
+authors = ["Ming Chang <mail@mingchang.tw>"]
+categories = ["Data Structure"]
+keywords = ["either"]
+repository = "https://github.com/ming900518/one_or_both"
+
+[dependencies]
